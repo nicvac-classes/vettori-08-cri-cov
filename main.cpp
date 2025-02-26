@@ -73,5 +73,5 @@ int main() {
             cout << "Atleta numero " << u + 1 << ", nome: " << nomi[u] << ", nazionale: " << nazionali[u] << ", tempo: " << tempo[u] << endl;
         }
     }
-    return 0;
+return0;
 }
